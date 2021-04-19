@@ -1,0 +1,34 @@
+p {
+  color: royalblue;
+  font-weight: bold;
+}
+
+p1 {
+  display: flex;
+  color: royalblue;
+  position: right;
+}
+
+body {
+  background-color: navy;
+}
+
+.box {
+  margin: 0 auto;
+  width: 100px;
+  height: 100px;
+  background-color: navy;
+  background-size: ;
+  backgrand-position:
+}
+about {
+  background-color: navy;
+
+  position: relative;
+}
+
+about__img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
